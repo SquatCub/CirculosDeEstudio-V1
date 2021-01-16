@@ -1,0 +1,21 @@
+.menu a{
+  text-decoration: none;
+  display:run-in;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 10px;
+  height: 50px;
+  background: rgba(52, 73, 94, 0.6);
+  color: white;
+  margin-top: 90px;
+  transition: 0.3s;
+}
+
+.menu a:hover{
+  background: rgba(19, 141, 117, 0.3);
+  transition: 0.3s;
+}
+
+.menu{
+
+  padding-bottom: 15px;
+}
